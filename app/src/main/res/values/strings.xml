@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SE2EinzelPhase</string>
+    <string name="bttnSendToServer">Send to Server</string>
+</resources>
